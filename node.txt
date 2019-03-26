@@ -1,0 +1,19 @@
+npm install jquery
+git+ssh:// git@github.com ..... #dev";
+npm install  <jquery> --save(for old version)
+
+vs code for code editor
+
+js(java script)
+-asynchronous in nature ()
+-prototypal based language(supports functional and object orients)
+-define variable-declare,define | classes-define,declare,call | function-declare,define,create | closures-access=special type of variable
+-concurrent
+-it does not have thread support.
+-can handle mutiple request at the same time.
+
+Event Loop
+-call back function
+
+robusgauli@gmail.com
+
